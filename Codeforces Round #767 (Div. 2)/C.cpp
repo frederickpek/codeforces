@@ -13,5 +13,5 @@ int main() {
 
 	int t;
 	cin >> t;
-	rep(i, t) sovle();
+	rep(i, t) solve();
 }
