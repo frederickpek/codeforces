@@ -89,7 +89,7 @@ void solve() {
 		v = next;
 	}
 
-	cout << "! " << v[0] << " " << v[1] << endl;
+	cout << "! " << v[0]+1 << " " << v[1]+1 << endl;
 	cout.flush();
 }
 
