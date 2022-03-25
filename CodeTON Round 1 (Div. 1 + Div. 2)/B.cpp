@@ -7,7 +7,7 @@ using namespace std;
 void solve() {
 	int n, k;
 	cin >> n >> k;
-	unordered_set<int> S;
+	set<int> S;
 	rep(i, n) {
 		int x;
 		cin >> x;
